@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useState, useEffect } from "react";
-import staticLogo from "../public/00012.webp";
+import staticLogo from "../public/android-chrome-512x512.png";
 
 import {
 	AiOutlineMenu,
@@ -49,7 +49,7 @@ function Navbar() {
 							alt="spinning gif saying a.dev"
 							className="cursor-pointer"
 							width="auto"
-							height="300"
+							height="200"
 						/>
 					</Link>
 				</div>
