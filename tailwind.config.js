@@ -9,6 +9,7 @@ module.exports = {
     extend: {
       fontFamily: {
 				lithos: ["var(--font-lithos-bold)"],
+        roboto: ["var(--font-roboto-flex)"],
 			},
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
