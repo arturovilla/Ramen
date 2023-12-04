@@ -16,7 +16,7 @@ function About() {
         </div>
 
         {/* hours block */}
-        <div className='flex flex-col items-center w-10/12 md:w-5/12 max-w-screen-md bg-gray-500/30 mt-10 p-3 rounded-md'>
+        <div className='flex flex-col items-center w-10/12 md:w-5/12 max-w-screen-md  mt-10 p-3 rounded-md border border-[#d2232a]'>
             <div className=' mb-2  font-roboto font-bold text-3xl'>
                 Hours
             </div>
