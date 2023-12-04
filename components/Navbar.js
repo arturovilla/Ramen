@@ -11,7 +11,7 @@ import {
 } from "react-icons/ai";
 
 function Navbar() {
-	const email = "artuvillam@gmail.com";
+	const email = "example@email.com";
 	const [menuOpen, setMenuOpen] = useState(false);
 	const handleNav = () => {
 		setMenuOpen(!menuOpen);
@@ -45,7 +45,7 @@ function Navbar() {
 					<Link href="/">
 						<Image
 							src={staticLogo}
-							alt="spinning gif saying a.dev"
+							alt="Bakudan Ramen Logo"
 							className="cursor-pointer"
 							width="auto"
 							height="200"
@@ -53,26 +53,26 @@ function Navbar() {
 					</Link>
 				</div>
 				<div className="hidden sm:flex">
-					<ul className="flex text-gruvpink">
+					<ul className="flex text-white">
 						<Link href="/">
-							<li className="ml-10 hover:border-b hover:border-gruvpink text-lg py-1">
+							<li className="ml-10 hover:border-b hover:border-white text-lg py-1">
 								Home
 							</li>
 						</Link>
 
 						<Link href="/work">
-							<li className="ml-10 hover:border-b hover:border-gruvpink text-lg py-1">
+							<li className="ml-10 hover:border-b hover:border-white text-lg py-1">
 								Menu
 							</li>
 						</Link>
 
 						<Link href="/resume">
-							<li className="ml-10 hover:border-b hover:border-gruvpink text-lg py-1">
+							<li className="ml-10 hover:border-b hover:border-white text-lg py-1">
 								Locations
 							</li>
 						</Link>
 						<Link href="https://order.toasttab.com/online/bakudan-ramen-stone-oak">
-							<li className="ml-10 text-lg py-1 px-5 text-gruv rounded-md border border-gruvpink hover:bg-gruvpink hover:text-[#0C0D1C]  transition duration-150 ease-in-out">
+							<li className="ml-10 text-lg py-1 px-5 text-white rounded-md border border-white hover:bg-white hover:text-[#0C0D1C] hover:shadow-sm hover:shadow-white transition duration-150 ease-in-out">
 								Order Now
 							</li>
 						</Link>
@@ -102,12 +102,12 @@ function Navbar() {
 						<AiOutlineClose size={20} color="#FFF" />
 					</div>
 				</div>
-				<div className="flex-col items-center text-center text-5xl py-4 text-gruvred">
+				<div className="flex-col items-center text-center text-5xl py-4 text-white">
 					<ul>
 						<Link href="/">
 							<li
 								onClick={() => setMenuOpen(false)}
-								className="hover:border-b border-gruvgreen pt-10 pb-3"
+								className="hover:border-b border-white pt-10 pb-3"
 							>
 								Home
 							</li>
@@ -115,7 +115,7 @@ function Navbar() {
 						<Link href="/work">
 							<li
 								onClick={() => setMenuOpen(false)}
-								className="hover:border-b border-gruvgreen pt-10 pb-3"
+								className="hover:border-b border-white pt-10 pb-3"
 							>
 								Menu
 							</li>
@@ -124,7 +124,7 @@ function Navbar() {
 						<Link href="/resume">
 							<li
 								onClick={() => setMenuOpen(false)}
-								className="hover:border-b border-gruvgreen pt-10 pb-3"
+								className="hover:border-b border-white pt-10 pb-3"
 							>
 								Locations
 							</li>
@@ -132,7 +132,7 @@ function Navbar() {
 						<Link href="/contact">
 							<li
 								onClick={() => setMenuOpen(false)}
-								className="hover:border-b border-gruvgreen pt-10 pb-3"
+								className="hover:border-b border-white pt-10 pb-3"
 							>
 								Order Now
 							</li>
