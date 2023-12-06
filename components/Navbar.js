@@ -60,13 +60,13 @@ function Navbar() {
 							</li>
 						</Link>
 
-						<Link href="/work">
+						<Link href="/menu">
 							<li className="ml-10 hover:border-b hover:border-white text-lg py-1">
 								Menu
 							</li>
 						</Link>
 
-						<Link href="/resume">
+						<Link href="/locations">
 							<li className="ml-10 hover:border-b hover:border-white text-lg py-1">
 								Locations
 							</li>
