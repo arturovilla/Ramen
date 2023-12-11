@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Bud Light",
+        "Price": "4"
+    },
+    {
+        "Name": "Dos Equis",
+        "Price": "5"
+    },
+    {
+        "Name": "Asahi",
+        "Price": "6"
+    },
+    {
+        "Name": "Hitachino White Ale (Can)",
+        "Price": "8"
+    },
+    {
+        "Name": "Hitachino Yuzu (Can)",
+        "Price": "8"
+    },
+    {
+        "Name": "Hitachino Dai Dai IPA (Can)",
+        "Price": "8"
+    },
+    {
+        "Name": "Ramune",
+        "Price": "3.50",
+        "Remark": "Japanese marble soda"
+    },
+    {
+        "Name": "Topo Chico",
+        "Price": "3.50",
+        "Remark": "Sparkling mineral water"
+    }
+
+]

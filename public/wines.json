@@ -1,0 +1,32 @@
+[
+    {
+        "Namewine": "House Wine",
+        "Price_glass": "6",
+        "Price_bottle": "."
+    },
+    {
+        "Namewine": "Joel Gott Sauvignon Blanc",
+        "Price_glass": "8",
+        "Price_bottle": "24"
+    },
+    {
+        "Namewine": "Seaglass Chardonnay",
+        "Price_glass": "9",
+        "Price_bottle": "27"
+    },
+    {
+        "Namewine": "Honora Vera Rosé",
+        "Price_glass": "10",
+        "Price_bottle": "30"
+    },
+    {
+        "Namewine": "Seaglass Pinot Noir",
+        "Price_glass": "10",
+        "Price_bottle": "30"
+    },
+    {
+        "Namewine": "Austin Hope Cabernet",
+        "Price_glass": "10",
+        "Price_bottle": "45"
+    }
+]

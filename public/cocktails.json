@@ -58,5 +58,11 @@
         "Description": "PBV Vodka, Island Pucker, Pineapple, Lime",
         "Price": "10",
         "Remark": "It’ll go down easy"
+    },
+    {
+        "Name": "Wild Mules",
+        "Description": "Wild Roots Infused Vokda, Lime, Ginger Beer",
+        "Price": "12",
+        "Remark": "From: Pear, Peach, Raspberry, Apple & Cinnamon"
     }
 ]
