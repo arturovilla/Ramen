@@ -1,0 +1,62 @@
+[
+    {
+        "Name": "Moonstone Margarita",
+        "Description": "Pueblo Viejo Tequila, Giffard coconut, lemmon grass, lime",
+        "Price": "10",
+        "Remark": "Get the glow"
+    },
+    {
+        "Name": "Tokyo 75",
+        "Description": "Broker’s Gin, Koval Cran, GT syrup, Lemon, Sparkling",
+        "Price": "12",
+        "Remark": "As Compelling as its French Cousin"
+    },
+    {
+        "Name": "Blushing Geisha",
+        "Description": "El Jimador Silver, Basil, Strawberries, Lime",
+        "Price": "11",
+        "Remark": "She is the Definition of Grace and Beauty"
+    },
+    {
+        "Name": "Alter’D Punch",
+        "Description": "Deep Eddy Orange Vodka, Wild Roots Pear Vodka, Sour, White Cranberry, Hakutsuru Plum Sake",
+        "Price": "12",
+        "Remark": "Deliver the Knockout Blow"
+    },
+    {
+        "Name": "All the Smoke",
+        "Description": "Susto Mezcal, Agave, Lime, GT syrup",
+        "Price": "13",
+        "Remark": "If you want it, it’s here!!"
+    },
+    {
+        "Name": "The Samurai",
+        "Description": "Texas Waterloo Old Yaupon Gin, Fresh Lime Juice, Green Tea",
+        "Price": "10",
+        "Remark": "He has found balance with..."
+    },
+    {
+        "Name": "Lychee Lemongrass",
+        "Description": "PBV Vodka, Lemongrass Syrup, Lemon, Soda",
+        "Price": "10",
+        "Remark": "A Refreshing Sparkling Lemonade"
+    },
+    {
+        "Name": "The Sensei",
+        "Description": "Tenjaku Whisky, Aromatic Bitters",
+        "Price": "12",
+        "Remark": "Like an Old Fashioned But Happens to Be a Martial Arts Master"
+    },
+    {
+        "Name": "Bakudan Breeze",
+        "Description": "Malibu Coconut, Fresh Pineapple, Lime",
+        "Price": "10",
+        "Remark": "She’ll give you good vibes"
+    },
+    {
+        "Name": "MidNight Snack",
+        "Description": "PBV Vodka, Island Pucker, Pineapple, Lime",
+        "Price": "10",
+        "Remark": "It’ll go down easy"
+    }
+]

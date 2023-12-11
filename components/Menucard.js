@@ -1,16 +1,13 @@
 import React from 'react'
 import Menuitem from './Menuitem'
+import cocktails from "../public/cocktails.json"
 
-const item1 = {
-  name: 'Moonstone Margarita',
-  discription: 'Pueblo Viejo Tequila, Giffard coconut, lemmon grass, lime',
-  price:'10',
-  remark:'Get the glow'
-}
-const item2 = {
-  name: '',
-  discription: '',
-  price:''
+function Menu(props) {
+  const menuItems = props.data.map((item, index) => (
+    <Menuitem key={index} item={item} />
+  ));
+
+  return menuItems
 }
 
 
@@ -18,11 +15,11 @@ const item2 = {
 function Menucard() {
   return (
     <div className='flex flex-col items-center w-full'>
-      <h1 className=' font-lithos text-6xl '>
+      <h1 className=' font-lithos text-6xl w-4/5 md:w-1/2 text-center border-b pb-2'>
         Menu
       </h1>
-      <div className='w-full flex justify-center mt-5'>
-        <Menuitem item={item1}/>
+      <div className='w-9/12 justify-center mt-5 grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-5'>
+        <Menu data={cocktails} />
       </div>
     </div>
   )

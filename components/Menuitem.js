@@ -1,33 +1,27 @@
 import React from 'react'
 
-const item1 = {
-    name: 'Moonstone Margarita',
-    discription: 'Pueblo Viejo Tequila, Giffard coconut, lemmon grass, lime',
-    price:'10',
-    remark:'Get the glow'
-}
+
 
 function Menuitem(props) {
   
   return (
-    <div className=' flex flex-col items-center text-[#ce1d24]  w-auto px-3 py-2'>
-        <div className='flex justify-center space-x-4  '>
+    <div className=' flex flex-col items-center text-red-500 w-auto px-3 py-2 border-b transition ease-in-out  hover:-translate-y-1 hover:scale-105  duration-75'>
+        <div className='flex justify-center space-x-4 text-[#d01d25] md:text-lg'>
             <h3 className=' font-roboto font-bold'>
-                {props.item.name}
+                {props.item.Name}
             </h3>
             <p className=' font-roboto font-light italic'>
-                {props.item.price}
+                {props.item.Price}
             </p>
         </div>
-        <div className=' flex flex-col items-center'>
+        <div className=' flex flex-col items-center font-extralight text-xs md:text-lg'>
             <p>
-                {props.item.discription}
+                {props.item.Description}
             </p>
-            <p className=' italic font-roboto font-extralight'>
-                {props.item.remark}
+            <p className=' italic font-roboto font-extralight hidden md:block'>
+                {props.item.Remark}
             </p>
         </div>
-        <hr className=""/>
     </div>
   )
 }
