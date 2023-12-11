@@ -16,12 +16,9 @@ function Menu(props) {
 
 
 
-function Menucard() {
+function Drinkcard() {
   return (
     <div className='flex flex-col items-center w-full'>
-      <h1 className=' font-lithos text-6xl w-4/5 md:w-1/2 text-center border-b pb-2'>
-        Menu
-      </h1>
       <h1 className=' mt-6 font-lithos text-3xl w-4/5 md:w-1/2 text-center  '>
         Cocktails
       </h1>
@@ -46,7 +43,7 @@ function Menucard() {
       <h1 className=' mt-1 font-lithos text-xl w-4/5 md:w-1/2 text-left border-b border-dashed'>
         Bottles/Cans
       </h1>
-      <div className='w-6/12 justify-center mt-5 grid grid-cols-1 gap-1'>
+      <div className='w-6/12 justify-center mt-5 grid grid-cols-2 gap-1 md:grid-cols-1 md:gap-1'>
           <Menu  data={beer_cans} />
       </div>
       <h1 className='flex mt-1 font-lithos text-xl w-4/5 md:w-1/2 text-left border-b border-dashed justify-between'>
@@ -64,4 +61,4 @@ function Menucard() {
   )
 }
 
-export default Menucard
+export default Drinkcard
