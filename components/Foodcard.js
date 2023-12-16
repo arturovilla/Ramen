@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Menuitem from './Menuitem';
 
 function Menu(props) {
     const menuItems = props.data.map((item, index) => (
