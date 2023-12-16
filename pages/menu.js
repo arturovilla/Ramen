@@ -1,5 +1,5 @@
 import Drinkcard from '@/components/Drinkcard'
-import Foodcard from '@/components/Foodcard'
+// import Foodcard from '@/components/Foodcard'
 import React from 'react'
 
 function Menu() {
@@ -9,7 +9,6 @@ function Menu() {
           Menu
         </h1>
         <Drinkcard/>
-        <Foodcard/>
     </div>
   )
 }
