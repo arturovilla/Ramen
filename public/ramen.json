@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "Bakudan Chicken",
+    "Price": 13.75,
+    "Description": "Rich chicken broth, shio base, chicken chashu, spinach, green onion, fried onion, thin noodles"
+  },
+  {
+    "Name": "Gyoza Chicken",
+    "Price": 14.75,
+    "Description": "Rich chicken broth, shio base, chicken gyoza (4), spinach, green onion, thin noodles"
+  },
+  {
+    "Name": "Cilantro Lime Chicken",
+    "Price": 15.75,
+    "Description": "Chicken broth, shoyu & shio base, chicken chashu, kikurage, cilantro, lime, seasoned egg, togarashi, thin noodles"
+  },
+  {
+    "Name": "Garlic Tonkotsu",
+    "Price": 15.75,
+    "Description": "Rich pork broth, tonkotsu base, pork chashu, kikurage, green onion, bean sprouts, fried garlic chips, fried onion, seasoned egg, nori, thick noodles"
+  },
+  {
+    "Name": "Spicy Umami Miso",
+    "Price": 15.75,
+    "Description": "Rich pork broth, miso base, chili oil, spicy chili paste, diced pork chashu, green onion, bok choy, bean sprouts, seasoned egg, nori, thick noodles"
+  },
+  {
+    "Name": "Vegetarian (noodles contain egg)",
+    "Price": 15.75,
+    "Description": "Veggie broth, vegetarian base, tofu, spinach, cabbage, garlic chips, green onion, sesame seed, chili oil, thick noodles"
+  },
+  {
+    "Name": "Spicy Shoyu",
+    "Price": 15.75,
+    "Description": "Chicken broth, shoyu base, chicken chashu, bean sprouts, green onion, corn, seasoned egg, togarashi, chili threads, enokia mushrooms, thick noodles"
+  },
+  {
+    "Name": "Shrimp Tempura",
+    "Price": 15.75,
+    "Description": "Chicken Broth, shio base, shrimp oil, shrimp tempura(3) cilantro, bean sprouts, seasoned egg, thin noodle"
+  },
+  {
+    "Name": "Pozole Ramen (served Sat & Sun 11-3)",
+    "Price": 15.75,
+    "Description": "Traditional Pozole broth, shredded pork, hominy, cabbage, radish, lime, nori, thick noodles"
+  }
+]

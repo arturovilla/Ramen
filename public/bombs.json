@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "San Antonio",
+    "Price": 0.75,
+    "Description": "Serrano, onion, cilantro and lime"
+  },
+  {
+    "Name": "S & S",
+    "Price": 0.75,
+    "Description": "Sriracha and honey"
+  },
+  {
+    "Name": "Spicy Citrus",
+    "Price": 0.75,
+    "Description": "Serrano, garlic, green onion, and Yuzu"
+  },
+  {
+    "Name": "Habanero",
+    "Price": 0.75,
+    "Description": "Habanero pepper, tomato (HOT!!!!)"
+  }
+]

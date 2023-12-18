@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Bibimbap Stone Pot",
+    "Price": 10.99,
+    "Description": "choice of rice or noodles, w/ broccoli, cauliflower, bell peppers, carrots, garlic, green onion and egg, served w/ house BBQ sauce."
+  },
+  {
+    "Name": "Chicken Katsu Tokyo Curry Rice",
+    "Price": 14.99,
+    "Description": "deep fried panko breaded chicken served w/ curry sauce, served w/ steamed rice and a side salad."
+  },
+  {
+    "Name": "Bulgogi Bowl",
+    "Price": 12.99,
+    "Description": "Thin-sliced marinated beef steak, broccoli, carrots, green onion, and sesame seeds."
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "Name": "Butter",
+    "Price": 0.5,
+    "Description": ""
+  },
+  {
+    "Name": "Nori (2 pcs)",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Bean Sprouts",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Fried Garlic",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Crispy Onion",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Green Onion",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Broccoli",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Cauliflowers",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Bok Choy",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Tofu",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Corn",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Bamboo",
+    "Price": 1,
+    "Description": ""
+  },
+  {
+    "Name": "Kikurage",
+    "Price": 1.5,
+    "Description": ""
+  },
+  {
+    "Name": "Mushrooms",
+    "Price": 1.5,
+    "Description": ""
+  },
+  {
+    "Name": "Seasoned Egg",
+    "Price": 2,
+    "Description": ""
+  },
+  {
+    "Name": "Chicken Cashu (2)",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "Pork Cashu (2)",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "Shrimp Wonton",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "Extra Noodles",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "Kale Noodles",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "GF Noodles",
+    "Price": 3,
+    "Description": ""
+  },
+  {
+    "Name": "Extra Soup",
+    "Price": 3,
+    "Description": ""
+  }
+]

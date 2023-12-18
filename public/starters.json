@@ -1,87 +1,87 @@
 [
-    {
-        "Name": "Edamame",
-        "Price": "5.50",
-        "Description": null
-    },
-    {
-        "Name": "Bakudan Edamame",
-        "Price": "6.50",
-        "Description": null
-    },
-    {
-        "Name": "Gyoza",
-        "Price": "8.50",
-        "Description": null
-    },
-    {
-        "Name": "Shishitos",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Takoyaki",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Shrimp Tempura",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Spicy Pork Belly",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Tebasaki Wings (4)",
-        "Price": "8.50",
-        "Description": null
-    },
-    {
-        "Name": "Honey Sriracha Wings (4)",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Chicken Karaage",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Bakudan Salad",
-        "Price": "10.99",
-        "Description": null
-    },
-    {
-        "Name": "Ahi Tuna Salad",
-        "Price": "11.99",
-        "Description": null
-    },
-    {
-        "Name": "Spicy Tuna Poke Nachos",
-        "Price": "9.50",
-        "Description": null
-    },
-    {
-        "Name": "Spicy Tuna Taco",
-        "Price": "8.50",
-        "Description": null
-    },
-    {
-        "Name": "Shrimp Bun",
-        "Price": "5.50",
-        "Description": null
-    },
-    {
-        "Name": "Chicken Bun",
-        "Price": "5.50",
-        "Description": null
-    },
-    {
-        "Name": "Bakudan Bun",
-        "Price": "5.50",
-        "Description": null
-    }
+  {
+    "Name": "Edamame",
+    "Price": 5.5,
+    "Description": "lightly salted steamed 5.50 soybeans"
+  },
+  {
+    "Name": "Bakudan Edamame",
+    "Price": 6.5,
+    "Description": "spicy garlic soybeans"
+  },
+  {
+    "Name": "Gyoza",
+    "Price": 8.5,
+    "Description": "fried pork & vegetable dumplings (6)"
+  },
+  {
+    "Name": "Shishitos",
+    "Price": 9.5,
+    "Description": "Shishito peppers topped w/ bits of pork"
+  },
+  {
+    "Name": "Takoyaki",
+    "Price": 9.5,
+    "Description": "octopus balls (6)"
+  },
+  {
+    "Name": "Shrimp Tempura",
+    "Price": 9.5,
+    "Description": "lightly battered fried shrimps (6)"
+  },
+  {
+    "Name": "Spicy Pork Belly",
+    "Price": 9.5,
+    "Description": "topped w/ our pepper smash"
+  },
+  {
+    "Name": "Tebasaki Wings (4)",
+    "Price": 8.5,
+    "Description": "dunked in a sweet and peppery soy sauce based glaze"
+  },
+  {
+    "Name": "Honey Sriracha Wings (4)",
+    "Price": 9.5,
+    "Description": "dunked in a sweet, spicy, and savory house made sauce"
+  },
+  {
+    "Name": "Chicken Karaage",
+    "Price": 9.5,
+    "Description": "jumbo fried chicken tossed in Japanese spice (6)"
+  },
+  {
+    "Name": "Bakudan Salad",
+    "Price": 10.99,
+    "Description": "spring mix, red onion, carrots,cucumber, avocado, egg, w/ sesame dressing"
+  },
+  {
+    "Name": "Ahi Tuna Salad",
+    "Price": 11.99,
+    "Description": "spring mix, red onion, carrots, avocado, seared cajun tuna, crispy wontons, apples & strawberries served w/\nhouse made dressing"
+  },
+  {
+    "Name": "Spicy Tuna Poke Nachos",
+    "Price": 9.5,
+    "Description": "egg based nachos, spicy tuna sashimi chunks, white\nonion, serrano peppers, cilantro, green\nonion, and avocado (7)"
+  },
+  {
+    "Name": "Spicy Tuna Taco",
+    "Price": 8.5,
+    "Description": "spicy tuna sashimi chunks served in wonton taco shells (2)"
+  },
+  {
+    "Name": "Shrimp Bun",
+    "Price": 5.5,
+    "Description": "Fried shrimp tossed in our spicy sauce with cucumbers, cilantro, and\nradishes"
+  },
+  {
+    "Name": "Chicken Bun",
+    "Price": 5.5,
+    "Description": "deep fried panko breaded chicken, spring mix, and spicy mayo (1)"
+  },
+  {
+    "Name": "Bakudan Bun",
+    "Price": 5.5,
+    "Description": "Soy glazed pork belly, cucumber, cilantro, peanut, and yakiniku\nsauce (1)"
+  }
 ]
